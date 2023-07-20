@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 
+
+
 | Year | Title |
 | ---- | ----  |
 | 2023 | Gao, S., Zhong, R., Yan, K., Ma, X., Chen, X., Pu, J., **Gao, S.**, Qi, J., Yin, G. and Myneni, R.B., 2023. Evaluating the saturation effect of vegetation indices in forests using 3D radiative transfer simulations and satellite observations. *Remote Sensing of Environment*, 295, p.113665. *Impact Factor 13.5*                  |
