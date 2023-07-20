@@ -15,6 +15,7 @@ redirect_from:
 **Ph.D. in remote sensing, University of Technology Sydney, Australia, 2020**
 
 Thesis title: Analyses of canopy photosynthesis derived from three-dimensional model simulations of sun-induced chlorophyll fluorescence. 
+
 Supervisor: Distinguished Professor Alfredo Huete
 
 **M.Sc. in Computer science and application, University of Chinese Academy of Sciences, China, 2014**
