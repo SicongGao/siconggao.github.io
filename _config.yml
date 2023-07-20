@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Sicong (Steve) Gao"
+title                    : "Dr. Sicong Gao"
 title_separator          : "-"
 name                     : &name "Dr. Sicong Gao"
 description              : &description "Research scientist at CSIRO"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Sicong Gao"
+  name             : "Dr. Sicong (Steve) Gao"
   avatar           : "profile.png"
   bio              : "Research Scientist at CSIRO"
   location         : "Adelaide, Australia"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/SicongGao"
+  github           : "SicongGao"
   google_plus      :
   keybase          :
   instagram        :
