@@ -13,10 +13,12 @@ redirect_from:
 ------
 
 **Ph.D. in remote sensing, University of Technology Sydney, Australia, 2020**
+
 Thesis title: Analyses of canopy photosynthesis derived from three-dimensional model simulations of sun-induced chlorophyll fluorescence. 
 Supervisor: Distinguished Professor Alfredo Huete
 
 **M.Sc. in Computer science and application, University of Chinese Academy of Sciences, China, 2014**
+
 Supervisor: Professor Zhongliang Fu
 
 **B.E. in Computer science and technology, Fujian Normal University, China, 2011**
@@ -49,7 +51,7 @@ I am a remote sensing researcher of the terrestrial ecosystem. My work focuses o
 * Research Fellow, University of Canberra and CSIRO
 	* 2020 - 2023
 
-* Research Assistance, Northwestern University of Agricultural and Forestry Science and Technology
+* Research Assistant, Northwestern University of Agricultural and Forestry Science and Technology
 	* 2019 - 2020
 
 * Data Scientist, SHUDOU Technology Co., Ltd.
@@ -60,7 +62,6 @@ I am a remote sensing researcher of the terrestrial ecosystem. My work focuses o
 
 # FUNDING, SCHOLARSHIP and AWARD
 ---
-
 ## Funding
 * Application of CSIRO evapotranspiration calibration technique to the Lower Limestone Coast plantation forestry region in South Australia.   
 	* Department for Environment and Water, SA. AUD $50,000, 2022.
@@ -126,11 +127,4 @@ Voted as Student Union Chair
 # REFERENCES
 ---
 
-* Tanya Doody (Principal Research Scientist - CSIRO)
-	Email: Tanya.Doody@csiro.au
-
-* Alfredo Huete (Distinguished Professor – University of Technology Sydney)
-	Email: Alfredo.Huete@uts.edu.au
-
-* Fiona Dyer (Professor – University of Canberra)
-	Email: Fiona.Dyer@canberra.edu.au
+References available upon request
