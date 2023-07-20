@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+# EDUCATION
 ------
 
 **Ph.D. in remote sensing, University of Technology Sydney, Australia, 2020**
@@ -66,6 +66,7 @@ I am a remote sensing researcher of the terrestrial ecosystem. My work focuses o
 ## Funding
 * Application of CSIRO evapotranspiration calibration technique to the Lower Limestone Coast plantation forestry region in South Australia.   
 	* Department for Environment and Water, SA. AUD $50,000, 2022.
+
 ## Scholarships
 * UTS International Research Scholarship
 	* University of Technology Sydney, Australia. AUD $120,000, 2016-2019.
@@ -73,6 +74,7 @@ I am a remote sensing researcher of the terrestrial ecosystem. My work focuses o
 	* University of Technology Sydney, Australia. AUD $56,488, 2016-2019.
 * Top student scholarship (2x)
 	* CNY $3000, 2006, 2007.
+
 ## Awards
 * Provincial excellence student
 	* Selected by Fujian province, China, 2008
