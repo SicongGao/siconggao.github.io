@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research highlights"
 permalink: /Research/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Reaseach hightlights
 
 # 1. A radiative transfer model for SIF simulations
 
@@ -18,5 +17,6 @@ redirect_from:
 
 # 2. Advancing Evapotranspiration modelling using SIF
 
->Gao, S., Nagler, P.L., Woodgate, W., Huete, A. and Doody, T.M., 2025. Advancing broadscale spatial evapotranspiration modelling by incorporating sun-induced chlorophyll fluorescence measurements. Journal of Hydrology, p.133404. https://doi.org/10.1016/j.jhydrol.2025.133404
+> Gao, S., Nagler, P.L., Woodgate, W., Huete, A. and Doody, T.M., 2025. Advancing broadscale spatial evapotranspiration modelling by incorporating sun-induced chlorophyll fluorescence measurements. Journal of Hydrology, p.133404. https://doi.org/10.1016/j.jhydrol.2025.133404
  
+<br/><img src='/images/SIF-ET.jpg'>
