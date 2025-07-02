@@ -60,7 +60,7 @@ I am a remote sensing researcher specializing in ecohydrological analysis, with 
 	* May - July, 2016
 
 * Software Engineer, HUAWEI Technologies Co., Ltd.
-	* 2014-2016
+	* 2014 - 2016
 
 # FUNDING, SCHOLARSHIP and AWARD
 ---
