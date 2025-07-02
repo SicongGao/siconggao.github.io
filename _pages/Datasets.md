@@ -11,7 +11,7 @@ redirect_from:
 
 # Australia-wide Machine Learning Evapotranspiration for Trees (AMLETT) model for Murray-Darling Basin wetlands
 
-This dataset contains the monthly evapotranspiration (ET, mm/month) data at 30 meters spatial resolution from Feb 2000 to Dec 2022 for Murray-Darling Basin wetlands, Australia. A model was created using field data and machine learning to estimate floodplain tree ET (Eucalyptus camaldulensis (River Red Gum) and E. largiflorens (Black Box)). This dataset will be updated at least annually in the future.
+This dataset contains the monthly evapotranspiration (ET, mm/month) data at 30 meters spatial resolution from Feb 2000 to June 2024 for Murray-Darling Basin wetlands, Australia. A model was created using field data and machine learning to estimate floodplain tree ET (Eucalyptus camaldulensis (River Red Gum) and E. largiflorens (Black Box)). This dataset will be updated at least annually in the future.
 
 > Doody, T.M., **Gao, S.**, Vervoort, W., Pritchard, J., Davies, M., Nolan, M. and Nagler, P.L., 2023. A river basin spatial model to quantitively advance understanding of riverine tree response dynamics to water availability and hydrological management. Journal of Environmental Management, 332, p.117393.
 

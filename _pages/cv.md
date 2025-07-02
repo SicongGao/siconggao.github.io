@@ -73,7 +73,7 @@ I am a remote sensing researcher of the terrestrial ecosystem. My work focuses o
 	* University of Technology Sydney, Australia. AUD $120,000, 2016-2019.
 * UTS President’s Scholarship
 	* University of Technology Sydney, Australia. AUD $56,488, 2016-2019.
-* Top student scholarship (2x)
+* Top student scholarship in China universities (2x)
 
 ## Awards
 * Provincial excellence student
