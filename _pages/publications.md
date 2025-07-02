@@ -38,4 +38,4 @@ author_profile: true
 | 2015 | Chen, G., Chen, B., **Gao, S.**, “Parallel Simulation Model for Plant Growth by Integrating Morphology and Physiology,” *Computer Simulation*, vol. 32, no. 8, pp. 404-408.                                                                                                                                                             |
 | 2014 | **Gao, S.**, Chen, G., Fu, Z., Liu, P., “A Functional-Structural Model of Virtual Plant Based on the Labeling Algorithm and the Growth State Chain,” *Applied Mechanics and Materials*, vol. 2014, pp. 2075-2083.                                                                                                                       |
 | 2013 | **Gao, S.**, Chen, G., Fu, Z., “Virtual Plant Growth and Development Simulation Model of Young Longan,” *Application of Computer*, vol. 33, no. 82, pp. 220-223.                                                                                                                                                                        |
-|      |
+
