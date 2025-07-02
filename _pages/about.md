@@ -15,7 +15,7 @@ A significant component of my research focuses on Groundwater Dependent Ecosyste
 # My research interests
 * Sun-Induced chlorophyll Fluorescence (SIF);
 * Groundwater-Dependent Ecosystem (GDE);
-* Evapotranspiration (ET) modelling
+* Evapotranspiration (ET)
 
 # Contact me
 Steve.Gao [at] CSIRO.au
