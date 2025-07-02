@@ -13,8 +13,8 @@ I am a remote sensing researcher specializing in terrestrial ecosystem analysis,
 A significant component of my research focuses on Groundwater Dependent Ecosystems (GDEs), where I examine the intricate relationships between groundwater availability and vegetation water demand in water-limited environments. My GDE research specifically investigates woody  vegetation responses to hydrological stress, including drought conditions and the implementation of environmental flow management strategies. Through the integration of remote sensing observations with hydrological modeling, I assess how changes in groundwater levels and surface water availability influence ecosystem structure, function, and resilience. This work contributes to understanding the vulnerability of GDEs to climate variability and anthropogenic water management practices, providing critical insights for the sustainable management and conservation of these ecologically important systems.
 
 # My research interests
-* SIF;
-* Groundwater-dependent Ecosystem;
+* Sun-Induced chlorophyll Fluorescence (SIF);
+* Groundwater-Dependent Ecosystem (GDE);
 * ET modelling
 
 # Contact me
