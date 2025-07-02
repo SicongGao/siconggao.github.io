@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -74,7 +74,6 @@ I am a remote sensing researcher of the terrestrial ecosystem. My work focuses o
 * UTS President’s Scholarship
 	* University of Technology Sydney, Australia. AUD $56,488, 2016-2019.
 * Top student scholarship (2x)
-	* CNY $3000, 2006, 2007.
 
 ## Awards
 * Provincial excellence student
@@ -123,9 +122,7 @@ I am a remote sensing researcher of the terrestrial ecosystem. My work focuses o
 # PROFESSIONAL SERVICE
 ---
 
-Voted as Student Union Chair
-* University of Chinese Academy of Sciences, 2012
-* Fujian Normal University, 2009
+As journals reviews for reviewing ~ 100 manuscripts
 
 
 # CERTIFICATES
