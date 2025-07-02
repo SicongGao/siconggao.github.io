@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-# The first datasets
-
-# The second datasets
+# Developing
