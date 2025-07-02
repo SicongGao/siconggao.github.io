@@ -13,23 +13,23 @@ redirect_from:
 # EDUCATION
 ------
 
-**Ph.D. in remote sensing, University of Technology Sydney, Australia, 2020**
+**Ph.D. in Remote Sensing, University of Technology Sydney, Australia, 2020**
 
 Thesis title: Analyses of canopy photosynthesis derived from three-dimensional model simulations of sun-induced chlorophyll fluorescence. 
 
 Supervisor: Distinguished Professor Alfredo Huete
 
-**M.Sc. in Computer science and application, University of Chinese Academy of Sciences, China, 2014**
+**M.Sc. in Computer Science and Application, University of Chinese Academy of Sciences, China, 2014**
 
 Supervisor: Professor Zhongliang Fu
 
-**B.E. in Computer science and technology, Fujian Normal University, China, 2011**
+**B.E. in Computer Science and Technology, Fujian Normal University, China, 2011**
 
 
 # RESEARCH INTEREST
 ----
 
-I am a remote sensing researcher of the terrestrial ecosystem. My work focuses on radiative transfer model, sun-induced chlorophyll fluorescence, evapotranspiration, ecological functions and evaluating woody floodplain vegetation responses to drought and environmental flow actions.
+I am a remote sensing researcher specializing in ecohydrological analysis, with a focus on understanding the complex interactions between vegetation dynamics and hydrological processes.
 
 
 # PROFESSIONAL STRENGTHS
