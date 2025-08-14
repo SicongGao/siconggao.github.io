@@ -122,7 +122,7 @@ I am a remote sensing researcher specializing in ecohydrological analysis, with 
 # PROFESSIONAL SERVICE
 ---
 
-As journals reviews for reviewing ~ 100 manuscripts
+As journals reviewers for reviewing ~ 100 manuscripts
 
 
 # CERTIFICATES
