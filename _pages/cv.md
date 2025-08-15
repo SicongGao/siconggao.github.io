@@ -124,6 +124,17 @@ I am a remote sensing researcher specializing in ecohydrological analysis, with 
 
 As journals reviewers for reviewing ~ 100 manuscripts
 
+# RESEARCH DEVICES
+---
+* DJI Phantom 4 multispectral 
+* Davis weather station
+* Drill & Drop soil moisture
+* Phenocam
+* ICT sap flow logger
+* AP4 leaf porometer
+* Ocean Optics USB2000 spectrometer
+
+
 
 # CERTIFICATES
 ---
