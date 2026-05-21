@@ -6,14 +6,12 @@ author_profile: true
 ---
 
 
-
-
-
-
 | Year | Title                                                                                                                                                                                                                                                                                                                                   |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026 | Liu, J., Fang, L., Guo, J., Doody, T.M., Zhang, X., **Gao, S.** and Gao, L., 2026. Explainable machine learning ensembles for identifying groundwater dependent ecosystems and key features. _Groundwater for Sustainable Development_, p.101613.                                                                                       |
+|      | Ding, N., Xie, Z., Wang, X., Wang, Z., Li, M., Cai, B., Zhao, Q., McDonald-Madden, E., Li, J., Gao, H. and **Gao, S.**, 2026. Freshwater biodiversity impacts of global hydropower dams. _Communications Earth & Environment_.                                                                                                          |
 | 2025 | Doody, T. M., **Gao, S.**, Z. Xie, A. P. O'Grady, and R. G. Benyon. 2025. Advancing a Hydrological Model to Quantify Groundwater Discharge of Forest Groundwater Dependent Ecosystems. _Hydrological Processes_ 39, no. 7: e70203.                                                                                                      |
-|      | Liang Y., Cao C., Zhu X, **Gao S.**,  Zhang Y., Ma X. 2025. Unveiling hidden dynamics: fine-scale mapping of groundwater-dependent ecosystems using multi-source Earth observations. _International Journal of Digital Earth_, 18(1), 2528636.                                                                                          |
+|      | Liang Y., Cao C., Zhu X, **Gao S.**,  Zhang Y., Ma X. 2025. Unveiling hidden dynamics: fine-scale mapping of groundwater-dependent ecosystems using multi-source Earth observations.  <br>_International Journal of Digital Earth_, 18(1), 2528636.                                                                                     |
 |      | Liu, K., Cao, C., **Gao, S.**, Yang, W. and Ma, X., Bridging satellite productivity and global biodiversity: Unveiling insights through dynamic habitat indices. _Journal of Remote Sensing_. 2025;5:0624.                                                                                                                              |
 |      | **Gao, S.**, Nagler, P.L., Woodgate, W., Huete, A. and Doody, T.M., 2025. Advancing broad scale spatial evapotranspiration modelling by incorporating sun-induced chlorophyll fluorescence measurements. _Journal of Hydrology_, p.133404.                                                                                              |
 |      | Yan, K., Gao, S., Yan, G., Ma, X., Chen, X., Zhu, P., Li, J., **Gao, S.**, Gastellu-Etchegorry, J.P., Myneni, R.B. and Wang, Q., 2025. A global systematic review of the remote sensing vegetation indices. _International Journal of Applied Earth Observation and Geoinformation_, _139_, p.104560                                    |
@@ -40,4 +38,3 @@ author_profile: true
 | 2015 | Chen, G., Chen, B., **Gao, S.**, “Parallel Simulation Model for Plant Growth by Integrating Morphology and Physiology,” *Computer Simulation*, vol. 32, no. 8, pp. 404-408.                                                                                                                                                             |
 | 2014 | **Gao, S.**, Chen, G., Fu, Z., Liu, P., “A Functional-Structural Model of Virtual Plant Based on the Labeling Algorithm and the Growth State Chain,” *Applied Mechanics and Materials*, vol. 2014, pp. 2075-2083.                                                                                                                       |
 | 2013 | **Gao, S.**, Chen, G., Fu, Z., “Virtual Plant Growth and Development Simulation Model of Young Longan,” *Application of Computer*, vol. 33, no. 82, pp. 220-223.                                                                                                                                                                        |
-
